@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slider_caption_text_color">#FFF</color>
+    <color name="square_overlay_color">#99000000</color>
+</resources>

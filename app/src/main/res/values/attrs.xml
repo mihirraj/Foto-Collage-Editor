@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="Gallery">
+        <attr name="speed_rate" format="float"/>
+    </declare-styleable>
+</resources>

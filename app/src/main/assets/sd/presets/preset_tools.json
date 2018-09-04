@@ -1,0 +1,212 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "wand_low",
+			"imageResourceName": "wand_low",
+			"filters": 
+			[
+				{
+					"type": "hdr2",
+					"params": 
+					[
+						{
+							"name": "alpha",
+							"value": "128"
+						},
+
+						{
+							"name": "blur_size",
+							"value": "19"
+						},
+
+						{
+							"name": "algorithm",
+							"value": "hdr"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "wand_medium",
+			"imageResourceName": "wand_medium",
+			"filters": 
+			[
+				{
+					"type": "hdr2",
+					"params": 
+					[
+						{
+							"name": "alpha",
+							"value": "128"
+						},
+
+						{
+							"name": "blur_size",
+							"value": "19"
+						},
+
+						{
+							"name": "algorithm",
+							"value": "hdr"
+						}
+					]
+				},
+
+				{
+					"type": "hdr2",
+					"params": 
+					[
+						{
+							"name": "alpha",
+							"value": "128"
+						},
+
+						{
+							"name": "blur_size",
+							"value": "19"
+						},
+
+						{
+							"name": "algorithm",
+							"value": "midtones"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "wand_high",
+			"imageResourceName": "wand_high",
+			"filters": 
+			[
+				{
+					"type": "hdr2",
+					"params": 
+					[
+						{
+							"name": "alpha",
+							"value": "255"
+						},
+
+						{
+							"name": "blur_size",
+							"value": "89"
+						},
+
+						{
+							"name": "algorithm",
+							"value": "hdr"
+						}
+					]
+				},
+
+				{
+					"type": "hdr2",
+					"params": 
+					[
+						{
+							"name": "alpha",
+							"value": "255"
+						},
+
+						{
+							"name": "blur_size",
+							"value": "89"
+						},
+
+						{
+							"name": "algorithm",
+							"value": "midtones"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "crop_square",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "crop",
+					"params": 
+					[
+						{
+							"name": "ratio",
+							"value": "1:1"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "crop_a4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "crop",
+					"params": 
+					[
+						{
+							"name": "ratio",
+							"value": "210:297"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "crop_photo",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "crop",
+					"params": 
+					[
+						{
+							"name": "ratio",
+							"value": "15:10"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "crop_custom",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "crop",
+					"params": 
+					[
+						{
+							"name": "ratio",
+							"value": "1:1"
+						},
+
+						{
+							"name": "fixed",
+							"value": "false"
+						}
+					]
+				}
+			]
+		}
+	]
+}

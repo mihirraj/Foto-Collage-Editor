@@ -1,0 +1,1203 @@
+{
+  "panels": [
+  	{
+			"name": "hdr_panel_start",
+			"type": "button_panel",
+			"launcher": "false",
+			"imageOnResourceName": "normal_on",
+			"imageOffResourceName": "normal_off",
+			"items": 
+			[
+				{
+					"name": "item_effects",
+					"imageOnResourceName": "nav_effects_on",
+					"imageOffResourceName": "nav_effects_off",
+					"launch_panel": "Effects"
+				},
+
+				{
+					"name": "item_ajust",
+					"imageOnResourceName": "nav_ajust_on",
+					"imageOffResourceName": "nav_ajust_off",
+					"launch_panel": "ChoosePanel_holdstickers"
+				}
+			]
+	},
+	{
+      "name": "ChooseFiltersPanel",
+      "type": "button_panel",
+      "launcher": "false",
+      "imageOnResourceName": "nav_effects_off",
+      "imageOffResourceName": "nav_effects_off",
+      "items": [
+        {
+          "name": "item_filters_lomo",
+          "imageOnResourceName": "lomo_on",
+          "imageOffResourceName": "lomo_off",
+          "launch_panel": "Effects"
+        },
+        {
+          "name": "item_filters_cartoon",
+          "imageOnResourceName": "cartoon_on",
+          "imageOffResourceName": "cartoon_off",
+          "launch_panel": "Filters_Cartoon"
+        }
+      ]
+    },
+	
+    {
+      "name": "ChoosePanel_holdstickers",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"",
+      "action_group":"",
+      "imageOnResourceName": "nav_adjust",
+      "imageOffResourceName": "nav_adjust",
+      "items": [  
+        {
+          "name": "item_stickers",
+          "imageOnResourceName": "stickers_on",
+          "imageOffResourceName": "stickers_off",
+          "launch_panel": "Stickers"
+        },
+        {
+          "name": "item_flares",
+          "imageOnResourceName": "flares_on",
+          "imageOffResourceName": "flares_off",
+          "launch_panel": "Flares"
+        },
+        {
+          "name": "item_shapes",
+          "imageOnResourceName": "shapes_on",
+          "imageOffResourceName": "shapes_off",
+          "launch_panel": "Shapes"
+        },
+        {
+          "name": "item_frames",
+          "imageOnResourceName": "frames_on",
+          "imageOffResourceName": "frames_off",
+          "launch_panel": "FramePack"
+        },      
+        {
+          "name": "item_brightness",
+          "imageOnResourceName": "brightness_on",
+          "imageOffResourceName": "brightness_off",
+          "launch_panel": "Brightness"
+        },
+        {
+          "name": "item_contrast",
+          "imageOnResourceName": "contrast_on",
+          "imageOffResourceName": "contrast_off",
+          "launch_panel": "Contrast"
+        },
+        {
+          "name": "item_saturation",
+          "imageOnResourceName": "saturation_on",
+          "imageOffResourceName": "saturation_off",
+          "launch_panel": "Saturation"
+        },
+        {
+          "name": "item_blur",
+          "imageOnResourceName": "blur_on",
+          "imageOffResourceName": "blur_off",
+          "launch_panel": "Blur"
+        },
+        {
+          "name": "item_temperature",
+          "imageOnResourceName": "temperature_on",
+          "imageOffResourceName": "temperature_off",
+          "launch_panel": "Temperature"
+        },
+        {
+          "name": "item_wand",
+          "imageOnResourceName": "enhance_on",
+          "imageOffResourceName": "enhance_off",
+          "launch_panel": "WandPanel"
+        },
+        {
+          "name": "item_highlights",
+          "imageOnResourceName": "highlights_on",
+          "imageOffResourceName": "highlights_off",
+          "launch_panel": "Highlights"
+        },
+        {
+          "name": "item_shadows",
+          "imageOnResourceName": "shadow_on",
+          "imageOffResourceName": "shadow_off",
+          "launch_panel": "Shadows"
+        },
+        {
+          "name": "item_grain",
+          "imageOnResourceName": "grain_on",
+          "imageOffResourceName": "grain_off",
+          "launch_panel": "Grain"
+        },
+        {
+          "name": "item_crop",
+          "imageOnResourceName": "crop_on",
+          "imageOffResourceName": "crop_off",
+          "launch_panel": "Crop"
+        },
+        {
+          "name": "item_focus",
+          "imageOnResourceName": "focus_on",
+          "imageOffResourceName": "focus_off",
+          "launch_panel": "OKCancelFocus"
+        }
+      ]
+    },
+    {
+      "name": "WandPanel",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"wand",
+      "action_group":"wand",
+      "imageOnResourceName": "enhance_on",
+      "imageOffResourceName": "enhance_off",
+      "items": [
+        {
+          "name": "wand_low",
+          "imageOnResourceName": "enhance_low_on",
+          "imageOffResourceName": "enhance_low_off"
+        },
+        {
+          "name": "wand_medium",
+          "imageOnResourceName": "enhance_medium_on",
+          "imageOffResourceName": "enhance_medium_off"
+        },
+        {
+          "name": "wand_high",
+          "imageOnResourceName": "enhance_high_on",
+          "imageOffResourceName": "enhance_high_off"
+        }
+      ]
+    },
+    {
+      "name": "Highlights",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"highlights",
+      "action_group":"highlights",
+      "progress": "255",
+      "max": "255",
+      "imageOnResourceName": "btnhighlights",
+      "imageOffResourceName": "btnhighlights",
+      "left_image" : "highlights_mini",
+	  "right_image" : "highlights_maxi",
+      "categories": [
+        "highlights"
+      ]
+    },
+    {
+      "name": "Shadows",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"shadow",
+      "action_group":"shadow",
+      "progress": "0",
+      "max": "255",
+      "imageOnResourceName": "btnshadows",
+      "imageOffResourceName": "btnshadows",
+      "left_image" : "shadows_mini",
+	  "right_image" : "shadows_maxi",
+      "categories": [
+        "shadows"
+      ]
+    },
+    {
+      "name": "Grain",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"grain",
+      "action_group":"grain",
+      "imageOnResourceName": "btngrain",
+      "imageOffResourceName": "btngrain",
+      "left_image" : "grain_mini",
+      "right_image" : "grain_maxi",
+      "caption": "Grain",
+      "progress": "0",
+      "max": "255",
+      "categories": [
+        "Grain"
+      ]
+    },
+    {
+      "name": "Brightness",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"brightness",
+      "action_group":"Brightness",
+      "priority":"200",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "left_image" : "brightness_mini",
+	  "right_image" : "brightness_maxi",
+      "categories": [
+        "brightness"
+      ]
+    },
+    {
+      "name": "Contrast",
+      "type": "slider_panel",
+      "launcher": "false",      
+      "action":"brightness",
+      "action_group":"Brightness",
+      "priority":"200",
+      "imageOnResourceName": "nav_flares",
+      "imageOffResourceName": "nav_flares",
+      "left_image" : "contrast_mini",
+      "right_image" : "contrast_maxi",
+      "categories": [
+        "contrast"
+      ]
+    },
+    {
+      "name": "Saturation",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"saturation",
+      "action_group":"saturation",
+      "imageOnResourceName": "nav_frames",
+      "imageOffResourceName": "nav_frames",
+      "left_image" : "hue_mini",
+      "right_image" : "hue_maxi",
+      "categories": [
+        "saturation"
+      ]
+    },
+    {
+      "name": "Temperature",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"temperature",
+      "action_group":"temperature",
+      "imageOnResourceName": "nav_stickers",
+      "imageOffResourceName": "nav_stickers",
+      "left_image" : "temperature_mini",
+      "right_image" : "temperature_maxi",
+      "categories": [
+        "temperature"
+      ]
+    },
+    {
+      "name": "Blur",
+      "max": "100",
+      "progress": "50",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"blur",
+      "action_group":"sharpness",
+      "imageOnResourceName": "nav_stickers",
+      "imageOffResourceName": "nav_stickers",
+      "left_image" : "blur_mini",
+      "right_image" : "blur_maxi",      
+      "categories": [
+        "blur"
+      ]
+    },
+    {
+      "name": "Effects",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"effects",
+      "action_group":"filters",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "margin": "0",
+      "items": [
+        {
+          "name": "F2",
+          "imageOnResourceName": "proc_c2f2_selected",
+          "imageOffResourceName": "proc_c2f2",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "M5",
+          "imageOnResourceName": "proc_c4m5_selected",
+          "imageOffResourceName": "proc_c4m5",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "P5",
+          "imageOnResourceName": "proc_c5p5_selected",
+          "imageOffResourceName": "proc_c5p5",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "T1",
+          "imageOnResourceName": "proc_c6t1_selected",
+          "imageOffResourceName": "proc_c6t1",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "X1",
+          "imageOnResourceName": "proc_c7x1_selected",
+          "imageOffResourceName": "proc_c7x1",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L1",
+          "imageOnResourceName": "proc_l1lomo_selected",
+          "imageOffResourceName": "proc_l1lomo",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L2",
+          "imageOnResourceName": "proc_l2cross_selected",
+          "imageOffResourceName": "proc_l2cross",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L3",
+          "imageOnResourceName": "proc_l3fel_selected",
+          "imageOffResourceName": "proc_l3fel",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L4",
+          "imageOnResourceName": "proc_l4columnist_selected",
+          "imageOffResourceName": "proc_l4columnist",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L5",
+          "imageOnResourceName": "proc_l5cinema_selected",
+          "imageOffResourceName": "proc_l5cinema",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L6",
+          "imageOnResourceName": "proc_l6childhood_selected",
+          "imageOffResourceName": "proc_l6childhood",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "P6",
+          "imageOnResourceName": "proc_l11snow_selected",
+          "imageOffResourceName": "proc_l11snow",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L12",
+          "imageOnResourceName": "proc_l12shy_selected",
+          "imageOffResourceName": "proc_l12shy",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L13",
+          "imageOnResourceName": "proc_l13atomic_selected",
+          "imageOffResourceName": "proc_l13atomic",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "L14",
+          "imageOnResourceName": "proc_l14city_selected",
+          "imageOffResourceName": "proc_l14city",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_1",
+          "imageOnResourceName": "filter_1_1_on",
+          "imageOffResourceName": "filter_1_1_off",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_2",
+          "imageOnResourceName": "filter_1_2_on",
+          "imageOffResourceName": "filter_1_2_off",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_3",
+          "imageOnResourceName": "filter_1_3_on",
+          "imageOffResourceName": "filter_1_3_off",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_4",
+          "imageOnResourceName": "filter_1_4_on",
+          "imageOffResourceName": "filter_1_4_off",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_5",
+          "imageOnResourceName": "filter_1_5_on",
+          "imageOffResourceName": "filter_1_5_off",
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "filters_1_6",
+          "imageOnResourceName": "filter_1_6_on",
+          "imageOffResourceName": "filter_1_6_off",
+          "launch_panel": "Effect_Alpha"
+        },
+           {
+          "name": "filters_2_1",
+          "imageOnResourceName": "filter_2_1_on",
+          "imageOffResourceName": "filter_2_1_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_2_2",
+          "imageOnResourceName": "filter_2_2_on",
+          "imageOffResourceName": "filter_2_2_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_2_3",
+          "imageOnResourceName": "filter_2_3_on",
+          "imageOffResourceName": "filter_2_3_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_2_4",
+          "imageOnResourceName": "filter_2_4_on",
+          "imageOffResourceName": "filter_2_4_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_2_5",
+          "imageOnResourceName": "filter_2_5_on",
+          "imageOffResourceName": "filter_2_5_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_2_6",
+          "imageOnResourceName": "filter_2_6_on",
+          "imageOffResourceName": "filter_2_6_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_1",
+          "imageOnResourceName": "filter_3_1_on",
+          "imageOffResourceName": "filter_3_1_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_2",
+          "imageOnResourceName": "filter_3_2_on",
+          "imageOffResourceName": "filter_3_2_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_3",
+          "imageOnResourceName": "filter_3_3_on",
+          "imageOffResourceName": "filter_3_3_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_4",
+          "imageOnResourceName": "filter_3_4_on",
+          "imageOffResourceName": "filter_3_4_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_5",
+          "imageOnResourceName": "filter_3_5_on",
+          "imageOffResourceName": "filter_3_5_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "filters_3_6",
+          "imageOnResourceName": "filter_3_6_on",
+          "imageOffResourceName": "filter_3_6_off",
+          "launch_panel": "Effect_Alpha"
+          ,"imageLockResourceName": "lock3",
+          "productIds": [
+            "pack3"
+          ]
+        },
+        {
+          "name": "premium_h1",
+          "imageOnResourceName": "premium_h1_selected",
+          "imageOffResourceName": "premium_h1",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_h2",
+          "imageOnResourceName": "premium_h2_selected",
+          "imageOffResourceName": "premium_h2",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_h3",
+          "imageOnResourceName": "premium_h3_selected",
+          "imageOffResourceName": "premium_h3",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_h4",
+          "imageOnResourceName": "premium_h4_selected",
+          "imageOffResourceName": "premium_h4",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_n3",
+          "imageOnResourceName": "premium_n3_selected",
+          "imageOffResourceName": "premium_n3",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_n2",
+          "imageOnResourceName": "premium_n2_selected",
+          "imageOffResourceName": "premium_n2",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_n1",
+          "imageOnResourceName": "premium_n1_selected",
+          "imageOffResourceName": "premium_n1",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_p2",
+          "imageOnResourceName": "premium_p2_selected",
+          "imageOffResourceName": "premium_p2",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_p1",
+          "imageOnResourceName": "premium_p1_selected",
+          "imageOffResourceName": "premium_p1",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_x2",
+          "imageOnResourceName": "premium_x2_selected",
+          "imageOffResourceName": "premium_x2",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "premium_x3",
+          "imageOnResourceName": "premium_x3_selected",
+          "imageOffResourceName": "premium_x3",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "pack1"
+          ],
+          "launch_panel": "Effect_Alpha"
+        }
+      ]
+    },
+    {
+      "name": "Filters_Cartoon",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"effects",
+      "action_group":"filters",      
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "margin": "0",
+      "items": [
+        {
+          "name": "cartoonpack_1",
+          "imageOnResourceName": "cartoonpack_1on",
+          "imageOffResourceName": "cartoonpack_1off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "cartoonpack_2",
+          "imageOnResourceName": "cartoonpack_2on",
+          "imageOffResourceName": "cartoonpack_2off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_3",
+          "imageOnResourceName": "cartoonpack_3on",
+          "imageOffResourceName": "cartoonpack_3off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },
+        {
+          "name": "cartoonpack_4",
+          "imageOnResourceName": "cartoonpack_4on",
+          "imageOffResourceName": "cartoonpack_4off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_5",
+          "imageOnResourceName": "cartoonpack_5on",
+          "imageOffResourceName": "cartoonpack_5off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_6",
+          "imageOnResourceName": "cartoonpack_6on",
+          "imageOffResourceName": "cartoonpack_6off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_7",
+          "imageOnResourceName": "cartoonpack_7on",
+          "imageOffResourceName": "cartoonpack_7off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_8",
+          "imageOnResourceName": "cartoonpack_8on",
+          "imageOffResourceName": "cartoonpack_8off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_9",
+          "imageOnResourceName": "cartoonpack_9on",
+          "imageOffResourceName": "cartoonpack_9off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_10",
+          "imageOnResourceName": "cartoonpack_10on",
+          "imageOffResourceName": "cartoonpack_10off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_11",
+          "imageOnResourceName": "cartoonpack_11on",
+          "imageOffResourceName": "cartoonpack_11off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_12",
+          "imageOnResourceName": "cartoonpack_12on",
+          "imageOffResourceName": "cartoonpack_12off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_13",
+          "imageOnResourceName": "cartoonpack_13on",
+          "imageOffResourceName": "cartoonpack_13off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_14",
+          "imageOnResourceName": "cartoonpack_14on",
+          "imageOffResourceName": "cartoonpack_14off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_15",
+          "imageOnResourceName": "cartoonpack_15on",
+          "imageOffResourceName": "cartoonpack_15off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_16",
+          "imageOnResourceName": "cartoonpack_16on",
+          "imageOffResourceName": "cartoonpack_16off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_17",
+          "imageOnResourceName": "cartoonpack_17on",
+          "imageOffResourceName": "cartoonpack_17off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        },        
+        {
+          "name": "cartoonpack_18",
+          "imageOnResourceName": "cartoonpack_18on",
+          "imageOffResourceName": "cartoonpack_18off",
+          "imageLockResourceName": "lock",
+          "productIds": [
+            "cartoonpack"
+          ],
+          "launch_panel": "Effect_Alpha"
+        }         
+      ]
+    },
+    
+    {
+			"name": "Stickers",
+			"type": "button_panel",
+		    "launcher" : "false",
+		    "action":"sticker",
+            "action_group":"stickers",
+			"imageOnResourceName": "nav_stickers",
+            "imageOffResourceName": "nav_stickers",
+            "with_screen" : "GridPager",
+            "items": [
+  						  {
+		                    "name": "lovepack",
+		                    "imageOnResourceName": "nav_love_selected",
+		                    "imageOffResourceName": "nav_love",
+          					"background_color":"#66000000",
+          					"colorable":"true"
+		                } ,
+		                 {
+		                    "name": "comicpack",
+		                    "imageOnResourceName": "nav_comics_selected",
+		                    "imageOffResourceName": "nav_comics",
+          					"background_color":"#66000000",
+          					"colorable":"true"							
+		                } ,
+		                  {
+		                    "name": "hipsterspack",
+		                    "imageOnResourceName": "nav_hipster_selected",
+		                    "imageOffResourceName": "nav_hipster",
+          					"background_color":"#66000000",
+          					"colorable":"true"							
+		                } ,  {
+		                    "name": "linepack",
+		                    "imageOnResourceName": "nav_line_selected",
+		                    "imageOffResourceName": "nav_line",
+          					"background_color":"#66000000",
+          					"colorable":"true"							
+		                } ,  {
+		                    "name": "hairstylespack",
+		                    "imageOnResourceName": "nav_hairstyles_selected",
+		                    "imageOffResourceName": "nav_hairstyles",
+          					"background_color":"#66FFFFFF",
+          					"colorable":"false"							
+		                } ,  {
+		                    "name": "glassespack",
+		                    "imageOnResourceName": "nav_glasses_selected",
+		                    "imageOffResourceName": "nav_glasses",
+          					"background_color":"#66FFFFFF",
+          					"colorable":"false"
+		                } 
+            ]
+            
+	    },
+    {
+      "name": "Flares",
+      "type": "button_panel",
+      "launcher": "false",
+      "imageOnResourceName": "nav_flares",
+      "imageOffResourceName": "nav_flares",
+      "action":"effects",
+      "action_group":"flares",
+      "margin": "0",
+      "items": [
+        {
+          "name": "leak1",
+          "imageOnResourceName": "leak_t1_selected",
+          "imageOffResourceName": "leak_t1",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak2",
+          "imageOnResourceName": "leak_t2_selected",
+          "imageOffResourceName": "leak_t2",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak3",
+          "imageOnResourceName": "leak_t3_selected",
+          "imageOffResourceName": "leak_t3",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak5",
+          "imageOnResourceName": "leak_t5_selected",
+          "imageOffResourceName": "leak_t5",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak6",
+          "imageOnResourceName": "leak_t6_selected",
+          "imageOffResourceName": "leak_t6",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak7",
+          "imageOnResourceName": "leak_t7_selected",
+          "imageOffResourceName": "leak_t7",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak8",
+          "imageOnResourceName": "leak_t8_selected",
+          "imageOffResourceName": "leak_t8",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak9",
+          "imageOnResourceName": "leak_t9_selected",
+          "imageOffResourceName": "leak_t9",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak10",
+          "imageOnResourceName": "leak_t10_selected",
+          "imageOffResourceName": "leak_t10",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak12",
+          "imageOnResourceName": "leak_t12_selected",
+          "imageOffResourceName": "leak_t12",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak14",
+          "imageOnResourceName": "leak_t14_selected",
+          "imageOffResourceName": "leak_t14",
+          "launch_panel": "Flare_Alpha"
+        },
+        {
+          "name": "leak17",
+          "imageOnResourceName": "leak_t17_selected",
+          "imageOffResourceName": "leak_t17",
+          "launch_panel": "Flare_Alpha"
+        }
+      ]
+    },
+    {
+      "name": "Shapes",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"sticker",
+      "action_group":"shapes",
+      "imageOnResourceName": "nav_shapes",
+      "imageOffResourceName": "nav_shapes",
+      "margin": "0",
+        "with_screen" : "GridPager",
+            "items": [
+   						  {
+		                    "name": "all",
+		                    "imageOnResourceName": "nav_shapes",
+		                    "imageOffResourceName": "nav_shapes",
+		             		"launch_panel": "OKCancel",
+          					"background_color":"#66000000",
+          					"colorable":"true"
+		                }
+            ]
+    },
+    
+    {
+      "name": "FramePack",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"sticker",
+      "action_group":"frames",
+      "imageOnResourceName": "nav_frames",
+      "imageOffResourceName": "nav_frames",
+      "margin": "0",
+       "with_screen" : "GridPager",
+            "items": [
+   						  {
+		                    "name": "all",
+		                    "imageOnResourceName": "nav_frame_selected",
+		                    "imageOffResourceName": "nav_frame",
+		                	"launch_panel": "OKCancel",
+          					"background_color":"#66000000",
+          					"colorable":"true"							
+		                }
+            ]
+    },
+
+
+    {
+      "name": "RotateMirror",
+      "type": "rotate_mirror_panel",
+      "launcher": "false",
+      "action":"rotate_mirror",
+      "action_group":"rotate_mirror",
+      "res_name": "filtergram",
+      "imageOnResourceName": "nav_orientation",
+      "imageOffResourceName": "nav_orientation"
+    },
+    {
+      "name": "Crop",
+      "type": "button_panel",
+      "launcher": "false",
+      "action":"crop",
+      "action_group":"crop",
+      "imageOnResourceName": "nav_crop",
+      "imageOffResourceName": "nav_crop",
+      "items": [
+        {
+          "name": "crop_custom",
+          "imageOnResourceName": "crop_custom_on",
+          "imageOffResourceName": "crop_custom_off",
+          "launch_panel": "OKCancelCrop"
+        },
+        {
+          "name": "crop_square",
+          "imageOnResourceName": "crop_square_on",
+          "imageOffResourceName": "crop_square_off",
+          "launch_panel": "OKCancelCrop"
+        },
+        {
+          "name": "crop_a4",
+          "imageOnResourceName": "crop_a4_on",
+          "imageOffResourceName": "crop_a4_off",
+          "launch_panel": "OKCancelCrop"
+        },
+        {
+          "name": "crop_photo",
+          "imageOnResourceName": "crop_photo_on",
+          "imageOffResourceName": "crop_photo_off",
+          "launch_panel": "OKCancelCrop"
+        }
+      ]
+    },
+    {
+      "name": "OKCancelFocus",
+      "type": "ok_cancel_panel",
+      "launcher": "false",
+      "action":"focus",
+      "action_group":"",
+      "res_name": "filtergram",
+      "imageOnResourceName": "btn_ok",
+      "imageOffResourceName": "btn_cancel"
+    },
+    {
+      "name": "Effect_Alpha",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"OkCancel",
+      "action_group":"",
+      "progress": "255",
+      "max": "255",
+      "caption": " ",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "categories": [
+        "brightness"
+      ]
+    },
+    {
+      "name": "Flare_Alpha",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"OkCancel",
+      "action_group":"",
+      "progress": "255",
+      "max": "255",
+      "caption": " ",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "categories": [
+        "brightness"
+      ]
+    },
+    {
+      "name": "Shape_Alpha",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"",
+      "action_group":"",
+      "progress": "255",
+      "max": "255",
+      "caption": " ",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "categories": [
+        "brightness"
+      ]
+    },
+    
+    {
+      "name": "Frame_Filters_Alpha",
+      "type": "slider_panel",
+      "launcher": "false",
+      "action":"",
+      "action_group":"",
+      "progress": "255",
+      "max": "255",
+      "caption": " ",
+      "imageOnResourceName": "nav_filters",
+      "imageOffResourceName": "nav_filters",
+      "categories": [
+        "brightness"
+      ]
+    },
+    
+    {
+      "name": "OKCancel",
+      "type": "ok_cancel_panel",
+      "launcher": "false",
+      "action":"",
+      "action_group":"",
+      "res_name": "filtergram",
+      "imageOnResourceName": "nav_orientation",
+      "imageOffResourceName": "nav_orientation"
+    },
+    {
+      "name": "OKCancelCrop",
+      "type": "ok_cancel_panel",
+      "launcher": "false",
+      "action":"crop",
+      "action_group":"crop",
+      "res_name": "filtergram",
+      "imageOnResourceName": "btn_ok",
+      "imageOffResourceName": "btn_cancel"
+    },
+	{
+		"name": "LockedOKCancel",
+		"type": "ok_cancel_panel",
+		"launcher" : "false",
+		"action":"",
+      	"action_group":"",
+		"res_name": "filtergram",
+		"imageOnResourceName": "btn_ok",
+        "imageOffResourceName": "btn_cancel",
+        "locked": "true"
+	},
+	       {
+   			"name": "OKCancelBars",
+   			"type": "ok_cancel_bars_panel",
+      		"launcher" : "false",
+      		"action":"OkCancel",
+      		"action_group":"",
+      		"res_name" : "filtergram",      		
+      		"bars" : 2,
+      		"progress" : [255,50],
+		    "max" : [255,100],
+		    "barTypes" : [0,1],
+   			"imageOnResourceName": "nav_orientation",
+           "imageOffResourceName": "nav_orientation"
+ 	     }
+  ]
+}

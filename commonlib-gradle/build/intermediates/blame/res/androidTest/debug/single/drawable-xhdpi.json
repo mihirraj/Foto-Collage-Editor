@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_plusone_tall_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_plusone_standard_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\powered_by_google_light.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_plusone_medium_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\powered_by_google_dark.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ic_plusone_small_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    }
+]

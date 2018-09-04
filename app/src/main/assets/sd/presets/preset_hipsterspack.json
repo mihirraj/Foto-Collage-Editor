@@ -1,0 +1,369 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "hipsterspack_1",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_2",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_3",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_5",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_6",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_7",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_8",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_9",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_9.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_10",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_10.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_11",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_11.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_12",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_12.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_13",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_13.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_14",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_14.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_15",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_15.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_16",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_16.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_17",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_17.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_18",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_18.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_19",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_19.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hipsterspack_20",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hipsterspack/hipsterspack_20.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

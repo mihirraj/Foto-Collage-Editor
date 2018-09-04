@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\anim\\hidebar.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\anim\\hidebar.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\anim\\showbar.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\anim\\showbar.xml"
+    }
+]

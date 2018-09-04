@@ -1,0 +1,345 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "Shape1",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape1.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape2",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape2.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape3",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape3.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape4",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape4.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape5",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape5.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape6",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape6.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape7",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape7.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape8",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape8.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape9",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape9.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape10",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape10.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape11",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape11.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Shape12",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape12.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		}
+	]
+}

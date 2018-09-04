@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flip_h.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\flip_h.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\slide_bar.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\slide_bar.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\facebook_icon.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_right_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate_right_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flip_h_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\flip_h_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow_right.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flip_v.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\flip_v.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_left.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate_left.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ok.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\ok.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_left_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate_left_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_back.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_right.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate_right.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cancel.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\cancel.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flip_v_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\flip_v_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow_left.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow_left.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cancel_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\cancel_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ok_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\ok_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow_back.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow_back.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\color_cursor_border.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_cursor_border.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_save.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_save.xml"
+    }
+]

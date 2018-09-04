@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foto college editor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="photoFolder">Photo Editor Pro</string>
+    <string name="processingProgress">Processing is in progress...</string>
+    <string name="savingProgress">Saving...</string>
+    <string name="flurryApiKey">FVHWDG36RDWNPP7KNPCJ</string>
+    <string name="rateTitle">Do you like Foto College Editor?</string>
+    <string name="flash_title">Flash</string>
+    <string name="cartoon_camera_app_link">market://details?id=com.onemanwithcameracartoon</string>
+    <string name="insta_lomo_hd_app_link">market://details?id=com.onemanwithcamerainstahd</string>
+    <string name="full_app_link">market://details?=com.photostudio.photoeditior</string>
+    
+    <string name="remove_ads_purchased_ok">The ads was removed.</string>
+    
+    <string name="remove_ads_purchased_error">The ads was not removed. Please try again later.</string>
+    <string name="remove_ads_wait">please wait...</string>
+    <string name="facebook_message_to_post"></string>
+    <string name="facebook_link_to_post"></string>
+    <string name="saved_notification">Saved</string>
+    <string name="failed_notification">Failed</string>
+    
+	<string name="adUnitId">ca-app-pub-6538616456653763/3582355138</string>
+    <string name="adUnitIdInterstitial">ca-app-pub-2166241959146947/9934440915</string>
+	<string name="tapjoyAppId">447aeb84-a781-4b09-ac5c-ad1eef8948cd</string>
+    <string name="tapjoySecretKey">7hNjkafWjoq3WwMZd2FD</string>
+    <string name="ChartboostAppId">52d375b9f8975c687b19dfa5</string>
+    <string name="ChartboostAppSignature">53669ec18abcf47fa9587b7f226e34834a9e46cf</string>
+    <string name="app_id"></string>
+    <string name="security_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxgmbz9KaTNn+wuDHADhIzJyfE/aZFT4gWPo+5hDnhsgo7edDN510t+abHoGL+1ALaHQv1TajhxJ2IHDPDfCWxWzGVmFdaKwWNXeeqVdq87Crn8zLSSblxzPYCUnctsa0KZQpb9FMbYyuKyFniJHapPoCc+fBtUF49GaY/rz5yYCu9Mqk+b4YRO8H0gvAJzow568NObCj0JcKZimwa4mopq4ozJTxqtbihQOi7lZcpR+GW1zBXz+EYiI9+EjO1tlDJtAt/hwJQFsRL6z46IlqmTsMTedHArnqL2TP+6pAn1bh991c/Sjplwa/5zYW2B3acIlT85D8ciKwIv0o+wSv/QIDAQAB</string>
+    <string name="appsFlyerKey">VnQHnCyEPAZVejRRbjwgWm</string>
+    <string name="promo_app_packagename">com.xlogic.profilepictures.utils</string>
+    <string name="hockeyAppId">6cfd274f62cae28d1a8a2703bef609dd</string>
+    <string name="workflow"></string>
+    <string-array name="always_used_filters">
+        <item>MIRROR</item>
+    </string-array>
+	<string name="choosed_filter_preset"></string>
+    
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.wisesharksoftware</groupId>
+	<artifactId>commonlib</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<packaging>aar</packaging>
+
+	<name>Commonlib</name>
+
+
+
+	<distributionManagement>
+
+		<repository>
+			<id>WiseSharkAlpha</id>
+			<name>WiseSharkAlpha-releases</name>
+			<url>http://50.62.141.121:8081/artifactory/libs-release-local</url>
+		</repository>
+		<snapshotRepository>
+			<id>WiseSharkAlpha</id>
+			<name>WiseSharkAlpha-snapshots</name>
+			<url>http://50.62.141.121:8081/artifactory/libs-snapshot-local</url>
+		</snapshotRepository>
+
+	</distributionManagement>
+
+	<dependencies>
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>android</artifactId>
+			<version>19</version>
+			<scope>provided</scope>
+		</dependency>
+
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>FlurryAnalytics</artifactId>
+			<version>3.3.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>GoogleAdMobAdsSdk</artifactId>
+			<version>0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>android-support</artifactId>
+			<version>4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>opencv</artifactId>
+			<version>0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>aws-android-sdk</artifactId>
+			<version>1.6.0</version>
+			<classifier>debug</classifier>
+		</dependency>
+
+		<dependency>
+			<groupId>third-party-libs</groupId>
+			<artifactId>tapjoyconnectlibrary</artifactId>
+			<version>0.1</version>
+		</dependency>
+
+
+	
+	</dependencies>
+
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+		<finalName>${project.artifactId}</finalName>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>com.jayway.maven.plugins.android.generation2</groupId>
+					<artifactId>android-maven-plugin</artifactId>
+					<version>3.8.2</version>
+					<extensions>true</extensions>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+		<plugins>
+			<plugin>
+				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
+				<artifactId>android-maven-plugin</artifactId>
+				<configuration>
+					<nativeLibrariesDirectory>${project.basedir}/libs</nativeLibrariesDirectory>
+					<renameManifestPackage>com.smsbackupandroid.libspec</renameManifestPackage>
+					<sdk>
+						<!--path>C:/android/sdk</path -->
+						<!-- platform as api level (api level 16 = platform 4.1) -->
+						<platform>19</platform>
+					</sdk>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

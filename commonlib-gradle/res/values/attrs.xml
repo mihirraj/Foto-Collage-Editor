@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="CategoryPanel">
+        <attr name="structure" format="string"/>
+        <attr name="res_image_back" format="string"/>
+    </declare-styleable>
+</resources>

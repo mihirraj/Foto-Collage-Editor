@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smsbackupandroid.lib.test" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.smsbackupandroid.lib.test"
+        android:targetPackage="com.smsbackupandroid.lib.test" />
+    <!-- Required permission to check licensing. -->
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+
+    <application
+        android:label="commonlib"
+        android:largeHeap="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.smsbackupandroid.lib.ImagesTutorialActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.smsbackupandroid.lib.PickImageActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

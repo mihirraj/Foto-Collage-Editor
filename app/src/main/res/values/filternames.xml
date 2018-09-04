@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filtername_RotateMirror">ORIENTATION</string>
+    <string name="filtername_Brightness">BRIGHTNESS</string>
+    <string name="filtername_Contrast">CONTRAST</string>
+    <string name="filtername_Crop">CROP</string>
+    <string name="filtername_Effects">FILTERS</string>
+    <string name="filtername_Shapes">SHAPES</string>
+    <string name="filtername_Flares">FLARES</string>
+    <string name="filtername_ChooseStickerPanel">STICKERS</string>
+    <string name="filtername_ChooseFiltersPanel">FILTERS</string>
+    <string name="filtername_ChoosePanel">ADJUST</string>
+
+    <string name="filtername_item_brightness">BRIGHTNESS</string>
+    <string name="filtername_item_contrast">CONTRAST</string>
+    <string name="filtername_item_saturation">SATURATION</string>
+    <string name="filtername_item_blur">BLUR</string>
+    <string name="filtername_item_temperature">TEMPERATURE</string>
+    <string name="filtername_item_wand">ENHANCE</string>
+    <string name="filtername_item_highlights">HIGHLIGHTS</string>
+    <string name="filtername_item_shadows">SHADOWS</string>
+    <string name="filtername_item_grain">GRAIN</string>
+    <string name="filtername_item_crop">CROP</string>
+    <string name="filtername_item_focus">FOCUS</string>
+    
+    <string name="filtername_item_filters_lomo">LOMO</string>
+    <string name="filtername_item_filters_cartoon">CARTOON</string>
+    
+    <string name="filtername_F2">C2</string>
+    <string name="filtername_M5">C4</string>
+    <string name="filtername_P5">C5</string>
+    <string name="filtername_T1">C6</string>
+    <string name="filtername_X1">C7</string>
+    <string name="filtername_L1">L1</string>
+    <string name="filtername_L2">L2</string>
+    <string name="filtername_L3">L3</string>
+    <string name="filtername_L4">L4</string>
+    <string name="filtername_L5">L5</string>
+    <string name="filtername_L6">L6</string>
+    <string name="filtername_P6">L11</string>
+    
+    <string name="filtername_L12">L12</string>
+    <string name="filtername_L13">L13</string>
+    <string name="filtername_L14">L14</string>
+    
+    <string name="filtername_premium_h1">H1</string>
+    <string name="filtername_premium_h2">H2</string>
+    <string name="filtername_premium_h3">H3</string>
+    <string name="filtername_premium_h4">H4</string>
+    <string name="filtername_premium_n3">N3</string>
+    <string name="filtername_premium_n2">N2</string>
+    <string name="filtername_premium_n1">N1</string>
+    <string name="filtername_premium_p2">P2</string>
+    <string name="filtername_premium_p1">P1</string>
+    <string name="filtername_premium_x2">X2</string>
+    <string name="filtername_premium_x3">X3</string>
+    
+    <string name="filtername_filters_1_1">S1</string>
+    <string name="filtername_filters_1_2">S2</string>
+    <string name="filtername_filters_1_3">S3</string>
+    <string name="filtername_filters_1_4">S4</string>
+    <string name="filtername_filters_1_5">S5</string>
+    <string name="filtername_filters_1_6">S6</string>
+    
+    <string name="filtername_filters_2_1">J1</string>
+    <string name="filtername_filters_2_2">J2</string>
+    <string name="filtername_filters_2_3">J3</string>
+    <string name="filtername_filters_2_4">J4</string>
+    <string name="filtername_filters_2_5">J5</string>
+    <string name="filtername_filters_2_6">J6</string>
+    
+    <string name="filtername_filters_3_1">I1</string>
+    <string name="filtername_filters_3_2">I2</string>
+    <string name="filtername_filters_3_3">I3</string>
+    <string name="filtername_filters_3_4">I4</string>
+    <string name="filtername_filters_3_5">I5</string>
+    <string name="filtername_filters_3_6">I6</string>    
+    
+    <string name="filtername_cartoonpack_1">GAME</string>
+    <string name="filtername_cartoonpack_2">COMICS</string>
+    <string name="filtername_cartoonpack_3">NOVICE</string>
+    <string name="filtername_cartoonpack_4">CARTOON</string>
+    <string name="filtername_cartoonpack_5">SKOOL</string>
+    <string name="filtername_cartoonpack_6">IDEA</string>
+    <string name="filtername_cartoonpack_7">YOUTH</string>
+    <string name="filtername_cartoonpack_8">BW</string>
+    <string name="filtername_cartoonpack_9">GODZILLA</string>
+    <string name="filtername_cartoonpack_10">WALL</string>
+    <string name="filtername_cartoonpack_11">PICASSO</string>
+    <string name="filtername_cartoonpack_12">PENCIL</string>
+    <string name="filtername_cartoonpack_13">SKETCH</string>
+    <string name="filtername_cartoonpack_14">BRUSH</string>
+    <string name="filtername_cartoonpack_15">DA VINCI</string>
+    <string name="filtername_cartoonpack_16">DEGAS</string>
+    <string name="filtername_cartoonpack_17">MONET</string>
+    <string name="filtername_cartoonpack_18">STUDENT</string>
+    
+    <string name="filtername_scan_bw_contrast">SCAN</string>
+    <string name="filtername_scan_bw">BW</string>
+    <string name="filtername_scan_normal">NORMAL</string>
+    
+    <string name="filtername_crop_square">SQUARE</string>
+    <string name="filtername_crop_a4">A4</string>
+    <string name="filtername_crop_photo">PHOTO</string>
+    <string name="filtername_crop_custom">CUSTOM</string>
+    
+    <string name="filtername_flip_horizontal">FLIP</string>
+    <string name="filtername_flip_vertical">FLIP</string>
+    <string name="filtername_rotate_left">ROTATE</string>    
+    <string name="filtername_rotate_right">ROTATE</string>    
+</resources>

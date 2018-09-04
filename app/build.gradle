@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.photostudio.photoeditor"
+        minSdkVersion 11
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+        }
+    }
+    sourceSets {
+        main {
+            java {
+                srcDir 'src'
+                exclude '**/realtime/**'
+            }
+        }
+    }
+}
+
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile project(':commonlib')
+    compile(name: 'Batch', ext: 'aar')
+    compile files('libs/StartAppInApp-3.3.1.jar')
+    compile 'com.jude:rollviewpager:1.4.5'
+
+}

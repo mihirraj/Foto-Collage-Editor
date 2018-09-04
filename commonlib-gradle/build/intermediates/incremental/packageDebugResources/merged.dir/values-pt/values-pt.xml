@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_resolution_types">
+        <item>Normal       (rápido)</item>
+        <item>Grande       (normal)</item>
+        <item>Extra-grande (lento)</item>
+    </string-array>
+    <string name="selectResolutionDialogTitle">Max Tamanho da foto</string>
+    <string name="settings_save_original_title">Salvar fotos originais</string>
+</resources>

@@ -1,0 +1,905 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "ShapePack1",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_1.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack2",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_2.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack3",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_3.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack4",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_4.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack5",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_5.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack6",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_6.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack7",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_7.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack8",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_8.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack9",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_9.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack10",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_10.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack11",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_11.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack12",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_12.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack13",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_13.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack14",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_14.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack15",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_15.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack16",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_16.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack17",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_17.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack18",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_18.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack19",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_19.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack20",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_20.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack21",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_21.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack22",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_22.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack23",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_23.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack24",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_24.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack25",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_25.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack26",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_26.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack27",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_27.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack28",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_28.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack29",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_29.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack30",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_30.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack31",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_31.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "ShapePack32",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "shape_pack_32.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		}
+	]
+}

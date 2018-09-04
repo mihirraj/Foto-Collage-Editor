@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:onemanwithcamera="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/processing_root_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/topPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#DC3930"
+            android:scaleType="centerInside"
+            android:src="@drawable/panel_top" />
+
+        <RelativeLayout
+            android:id="@+id/proc_header_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topPanel"
+            android:gravity="top" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#5E1814"
+                android:scaleType="centerInside"
+                android:src="@null" />
+
+            <ImageButton
+                android:id="@+id/ivDone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView1"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@null"
+                android:src="@null" />
+
+            <EditText
+                android:id="@+id/edDocumentName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_toLeftOf="@+id/ivDone"
+                android:background="@null"
+                android:padding="10dp"
+                android:textColor="#FFFFFF" >
+            </EditText>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/adViewContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proc_header_layout"
+            android:layout_centerHorizontal="true" >
+
+            <com.google.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/adUnitId"
+                ads:loadAdOnCreate="true"
+                
+                ads:testDevices="80A354043049161260" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/adViewContainer"
+            android:layout_gravity="center" >            
+
+            <net.pocketmagic.android.ccdyngridview.DynGridView
+                android:id="@+id/gridview"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:horizontalSpacing="4dip"
+                android:numColumns="3"
+                android:padding="4dip"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="4dip" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</FrameLayout>

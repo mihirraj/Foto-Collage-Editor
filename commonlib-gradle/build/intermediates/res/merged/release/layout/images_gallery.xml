@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+	<Gallery 	android:id="@+id/gallery" 
+				android:spacing="0dp"
+				android:layout_width="fill_parent" 
+				android:layout_height="fill_parent">
+	</Gallery>
+	<ImageButton android:id="@+id/left_button"
+				 android:layout_gravity="center_vertical|left"
+				 android:layout_width="wrap_content" 
+				 android:layout_height="wrap_content"
+				 android:src="@drawable/arrow_left"
+				 android:background="@drawable/arrow_back">
+	</ImageButton>
+	<ImageButton android:id="@+id/right_button" 	
+				android:layout_gravity="center_vertical|right"
+				 android:layout_width="wrap_content" 
+				 android:layout_height="wrap_content"
+				 android:background="@drawable/arrow_back"
+				 android:src="@drawable/arrow_right">
+	</ImageButton>
+</FrameLayout>

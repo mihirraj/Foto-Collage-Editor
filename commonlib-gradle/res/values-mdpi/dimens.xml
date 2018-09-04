@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bars_height">40dp</dimen>
+    <dimen name="color_bar_height">13dp</dimen>
+    
+</resources>

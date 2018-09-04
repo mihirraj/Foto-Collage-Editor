@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:onemanwithcamera="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/processing_root_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <FrameLayout
+            android:id="@+id/proc_header_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#cac6be"
+            android:gravity="top"
+            android:visibility="gone" >
+
+            <RelativeLayout
+                android:id="@+id/proc_header"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/top_panel_background"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/panel_top" />
+
+                <ImageButton
+                    android:id="@+id/processing_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="6dp"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_back" >
+                </ImageButton>
+
+                <ImageButton
+                    android:id="@+id/processing_share"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="6dp"
+                    android:background="@android:color/transparent"
+                    android:src="@null" >
+                </ImageButton>
+
+                <ImageButton
+                    android:id="@+id/btnSavePhoto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="6dp"
+                    android:layout_toLeftOf="@+id/processing_share"
+                    android:background="@android:color/transparent"
+                    android:src="@null" />
+
+                <ProgressBar
+                    android:id="@+id/progressBarSavePhoto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/btnSavePhoto"
+                    android:layout_alignTop="@+id/btnSavePhoto"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="6dp"
+                    android:layout_toLeftOf="@+id/btnSavePhoto"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/imgLockScreen"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:src="#00FFFFFF"
+                android:visibility="invisible" />
+        </FrameLayout>
+
+        <com.wisesharksoftware.panels.PanelManager
+            xmlns:panel="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/categoryPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/panel_bottom"
+            panel:res_image_back="back_category"
+            panel:structure="structure_json" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/categoryPanel"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center" 
+            android:id="@+id/dragLayerRoot">
+
+            <com.wisesharksoftware.sticker.DragLayer
+                android:id="@+id/dragLayer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center" >
+
+                <com.wisesharksoftware.sticker.CropImageView
+                    android:id="@+id/crop_image"
+                    style="@style/AviaryGraphics_CropHighlightView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent" />
+
+                <ImageView
+                    android:id="@+id/backgroundImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="invisible" />
+
+                <com.wisesharksoftware.sticker.FocusImageView
+                    android:id="@+id/focus_image"
+                    style="@style/AviaryGraphics_CropHighlightView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent"
+                    android:visibility="gone" />
+
+                <com.wisesharksoftware.sticker.ImageViewDrawableOverlay
+                    android:id="@+id/image_overlay"
+                    style="?attr/aviaryImageViewDrawableOverlaySticker"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="matrix" />
+
+                <FrameLayout
+                    android:id="@+id/launcher_screen_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="invisible" >
+                </FrameLayout>
+            </com.wisesharksoftware.sticker.DragLayer>
+        </RelativeLayout>
+        
+        <ProgressBar
+            android:id="@+id/progressBarHorProcessing"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentTop="true"
+            android:indeterminate="false"
+            android:orientation="horizontal"
+            android:progressDrawable="@drawable/onepixelprogress" />
+
+        
+        <LinearLayout
+            android:id="@+id/adViewContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/categoryPanel"
+            android:layout_centerHorizontal="true" >
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/adUnitId" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgShowOriginal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/adViewContainer"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:src="@drawable/original_off" />
+
+        <ImageView
+            android:id="@+id/imgRevert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/adViewContainer"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:src="@drawable/btn_revert" />
+
+        <LinearLayout
+            android:id="@+id/shareMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/categoryPanel"
+            android:layout_alignParentRight="true"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <ImageButton
+                android:id="@+id/imgShareHdr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:src="@drawable/btn_menu_share" />
+
+            <ImageButton
+                android:id="@+id/imgSaveHdr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:src="@drawable/btn_menu_save" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/categoryPanel"
+            android:layout_below="@id/adViewContainer"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/remove_ads"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/remove_ads" />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBarProcessing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/imgFullLockScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:scaleType="fitXY"
+        android:src="#00000000"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/tvToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="48sp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/tvProgressToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="48sp"
+        android:visibility="invisible" />
+
+</FrameLayout>

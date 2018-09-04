@@ -1,0 +1,40 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aviary="http://schemas.android.com/apk/res-auto">
+
+    <style name="AviaryWidget"></style>
+
+    <style name="AviaryGraphics"></style>
+    
+    <style name="AviaryGraphics_StickerHighlightView">
+        <item name="aviary_rotateDrawable">@drawable/aviary_resize_knob</item>
+        <item name="aviary_deleteDrawable">@drawable/aviary_delete_knob</item>
+        <item name="aviary_minSize">@dimen/aviary_sticker_overlay_min_size</item>
+        <item name="aviary_moveEnabled">1</item>
+        <item name="aviary_rotateEnabled">1</item>
+        <item name="aviary_resizeEnabled">1</item>
+        <item name="android:background">@drawable/aviary_sticker_highlight_background_selector</item>
+        <item name="android:padding">@dimen/aviary_sticker_overlay_padding</item>
+    </style>    
+    
+    <style name="AviaryWidget.StickerImageView">
+        <item name="aviary_highlightStyle">?aviaryImageViewDrawableOverlayStickerHighlightStyle</item>
+    </style>    
+  
+    <color name="aviary_crop_stroke_color">#ffe1e1e1</color>
+    <color name="aviary_crop_stroke_color_pressed">#ffe1e1e1</color>
+    <color name="aviary_crop_stroke_internal_color">#49e1e1e1</color>
+    <color name="aviary_crop_stroke_internal_color_pressed">#1fe1e1e1</color>
+    <color name="aviary_crop_fill_color">#77000000</color>
+    <color name="aviary_crop_fill_color_pressed">#77000000</color>
+    
+	<style name="AviaryGraphics_CropHighlightView">
+        <item name="aviary_strokeWidth">@dimen/aviary_crop_stroke_width</item>
+        <item name="aviary_strokeWidth2">@dimen/aviary_crop_stroke_internal_width</item>
+        <item name="aviary_strokeColor">@color/aviary_crop_stroke_color</item>
+        <item name="aviary_strokeColor2">@color/aviary_crop_stroke_color_pressed</item>
+        <item name="aviary_strokeColor3">@color/aviary_crop_stroke_internal_color</item>
+        <item name="aviary_strokeColor4">@color/aviary_crop_stroke_internal_color_pressed</item>
+        <item name="aviary_color1">@color/aviary_crop_fill_color</item>
+        <item name="aviary_color2">@color/aviary_crop_fill_color_pressed</item>
+        <item name="android:src">@drawable/aviary_knob</item>
+    </style>
+</resources>

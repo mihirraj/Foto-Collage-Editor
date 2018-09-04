@@ -1,0 +1,675 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "sticker_love1",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love2",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love3",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love4",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love5",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love6",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love7",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_love8",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_love8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_crown",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_crown.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_crown2",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_crown2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_crown3",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_crown3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_crown5",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_crown5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_top",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_top.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_bottom",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_bottom.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_vertical",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_vertical.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_bigtop",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_bigtop.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "sticker_lion",
+			"imageResourceName": "proc_c1",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/sticker_lion.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_1",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_2",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_3",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_5",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_6",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_7",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_8",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_9",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_9.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_10",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_10.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_11",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_11.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_12",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_12.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_13",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_13.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_14",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_14.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_15",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_15.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_16",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_16.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_17",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_17.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_18",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_18.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_19",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_19.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "lovepack_20",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/lovepack/lovepack_20.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

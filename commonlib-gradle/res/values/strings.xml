@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_button_ok">OK</string>
+    <string name="help_title">Help</string>
+    <string name="help_not_show_checkbox">Do not show this dialog again.</string>
+    <string name="hello">Hello World, AndroidFacebookSample!</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="wisesharksoftware">http://wisesharksoftware.com/</string>
+    <string name="wisesharksoftware_apps">http://wisesharksoftware.com/ourapps.html</string>
+    
+    <string name="flurryApiKey"></string>
+    
+    <string name="selectResolutionDialogTitle">Max Photo Size</string>
+    
+    <string-array name="settings_resolution_types">
+        <item>Normal      (fast)</item>
+        <item>Large       (normal)</item>
+        <item>Extra Large (slow)</item>
+    </string-array>
+    
+    <string name="settings_save_original_title">Save original photos</string>
+    <string name="settings_do_square_photo_title">Square photo</string>
+    
+	<string-array name="settings_resolution_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+    <string name="settings_more_apps_title">More great photo apps</string>
+    <string name="settings_rate_title">Rate us on Google Play</string>
+    	
+    <string name="applicationSettingsTitle">Settings</string>
+	
+    <bool name="settings_save_original_default">true</bool>
+    <bool name="settings_do_square_photo_default">false</bool>
+    
+    <string name="settings_developers_title">Developers: Get this app!</string>
+
+</resources>

@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_left_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_left_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\seek_bar_background.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\seek_bar_background.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\seek_bar_progress.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\seek_bar_progress.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\save_word_on.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\save_word_on.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_v_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_v_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_h.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_h.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\save_word_off.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\save_word_off.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_ok.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_ok.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_right_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_right_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_h_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_h_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_cancel_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_cancel_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_left.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_left.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\color_cursor.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\color_cursor.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wite_circle.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\wite_circle.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\grey_circle.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\grey_circle.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_v_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_v_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_cancel.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_cancel_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_cancel_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\back_off.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\back_off.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\back_on.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\back_on.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_right_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_right_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_right.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_left_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_left_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_h_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_h_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_ok_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_ok_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_left_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_left_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_rotate_right_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_rotate_right_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_cancel_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_cancel_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_v_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_v_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\color_cursor_tr.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\color_cursor_tr.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\scale.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\scale.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_ok_selected.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_ok_selected.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_h_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_h_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_ok_selected_filtergram.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_ok_selected_filtergram.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bottom_panel_red.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\bottom_panel_red.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_flip_v.png",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\drawable-xhdpi\\ic_action_flip_v.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    }
+]

@@ -1,0 +1,1129 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "framepack_1",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_1.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_2",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_2.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_3",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_3.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_4",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_4.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_5",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_5.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_6",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_6.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_7",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_7.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_8",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_8.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_9",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_9.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_10",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_10.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_11",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_11.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_12",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_12.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_13",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_13.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_14",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_14.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_15",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_15.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_16",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_16.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_17",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_17.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_18",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_18.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_19",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_19.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_20",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_20.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_21",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_21.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_22",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_22.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_23",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_23.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_24",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_24.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_25",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_25.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_26",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_26.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_27",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_27.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_28",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_28.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_29",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_29.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_30",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_30.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_31",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_31.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_32",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_32.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_33",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_33.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_34",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_34.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_35",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_35.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_36",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_36.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_37",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_37.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_38",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_38.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_39",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_39.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "framepack_40",
+			"imageResourceName": "disco",
+			"filters": 
+			[
+				{
+					"type": "blend",
+					"params": 
+					[
+						{
+							"name": "algorithm",
+							"value": "transparency"
+						},
+
+						{
+							"name": "image",
+							"value": "framepack_40.png"
+						},
+
+						{
+							"name": "position",
+							"value": "absolute"
+						}
+					]
+				}
+			]
+		}
+	]
+}

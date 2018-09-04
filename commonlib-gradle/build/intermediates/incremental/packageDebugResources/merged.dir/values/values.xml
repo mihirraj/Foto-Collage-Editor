@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_resolution_types">
+        <item>Normal      (fast)</item>
+        <item>Large       (normal)</item>
+        <item>Extra Large (slow)</item>
+    </string-array>
+    <string-array name="settings_resolution_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <bool name="hd_enabled">false</bool>
+    <bool name="preview_enabled">false</bool>
+    <bool name="settings_do_square_photo_default">false</bool>
+    <bool name="settings_save_original_default">true</bool>
+    <bool name="trial_enabled">true</bool>
+    <bool name="use_open_cv">false</bool>
+    <color name="slider_caption_text_color">#FFF</color>
+    <color name="square_overlay_color">#99000000</color>
+    <declare-styleable name="CategoryPanel"><attr format="string" name="structure"/><attr format="string" name="res_image_back"/></declare-styleable>
+    <dimen name="bars_height">35dp</dimen>
+    <dimen name="color_bar_height">15dp</dimen>
+    <integer name="image_height">600</integer>
+    <integer name="image_height_hd">1200</integer>
+    <integer name="image_height_hd_original">1200</integer>
+    <integer name="image_height_high">600</integer>
+    <integer name="image_height_low">600</integer>
+    <integer name="image_height_normal">600</integer>
+    <integer name="image_height_original">600</integer>
+    <integer name="image_width">800</integer>
+    <integer name="image_width_hd">1600</integer>
+    <integer name="image_width_hd_original">1600</integer>
+    <integer name="image_width_high">800</integer>
+    <integer name="image_width_low">800</integer>
+    <integer name="image_width_normal">800</integer>
+    <integer name="image_width_original">800</integer>
+    <integer name="preview_height">300</integer>
+    <integer name="preview_width">300</integer>
+    <string name="applicationSettingsTitle">Settings</string>
+    <string name="btnPostToFacebook">Post To Facebook</string>
+    <string name="camera_ratio">-1</string>
+    <string name="flurryApiKey"/>
+    <string name="hello">Hello World, AndroidFacebookSample!</string>
+    <string name="help_button_ok">OK</string>
+    <string name="help_not_show_checkbox">Do not show this dialog again.</string>
+    <string name="help_title">Help</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="rateLater">Maybe later</string>
+    <string name="rateNo">No, thanks</string>
+    <string name="rateText">Please rate it on Google Play</string>
+    <string name="rateUrlPrefix">market://details?id=</string>
+    <string name="rateYes">Rate!</string>
+    <string name="selectResolutionDialogTitle">Max Photo Size</string>
+    <string name="settings_developers_title">Developers: Get this app!</string>
+    <string name="settings_do_square_photo_title">Square photo</string>
+    <string name="settings_more_apps_title">More great photo apps</string>
+    <string name="settings_rate_title">Rate us on Google Play</string>
+    <string name="settings_save_original_title">Save original photos</string>
+    <string name="trialNo">No, thanks</string>
+    <string name="trialText">The application has expired. Please purchase a full version or post a promo message on your Facebook wall.</string>
+    <string name="trialTitle">Free version has expired</string>
+    <string name="trialYes">Purchase</string>
+    <string name="txtFailedPost">The error appeared while connecting to your Facebook account. Please make sure that the credentials are correct and the Internet connection is function properly</string>
+    <string name="txtPostConfirmation">The message has been posted on your wall. Thank you very much for you support!</string>
+    <string name="txtPromo">Tried this android application and it works great! Try it here: </string>
+    <string name="wisesharksoftware">http://wisesharksoftware.com/</string>
+    <string name="wisesharksoftware_apps">http://wisesharksoftware.com/ourapps.html</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+</resources>

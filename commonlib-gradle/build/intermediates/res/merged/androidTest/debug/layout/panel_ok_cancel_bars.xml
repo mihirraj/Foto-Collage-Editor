@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true" 
+    android:paddingBottom="0dp">
+
+    <RelativeLayout
+        android:id="@+id/panel_ok_cancel_bars_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageButton
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/cancel_filtergram"
+            android:src="@null" />
+
+        <ImageButton
+            android:id="@+id/btnOK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ok_filtergram"
+            android:src="@null" />
+
+        <LinearLayout
+            android:id="@+id/ok_cancel_bars_Container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/btnOK"
+            android:layout_toRightOf="@id/btnCancel"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.wisesharksoftware.panels.bars.ColorPickerBar
+        android:id="@+id/color_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/panel_ok_cancel_bars_top"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:paddingLeft="10dp"
+        android:visibility="gone"
+        android:paddingRight="10dp" >
+    </com.wisesharksoftware.panels.bars.ColorPickerBar>
+
+</RelativeLayout>

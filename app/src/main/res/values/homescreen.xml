@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="homescreen_app_links">
+        <item>https://play.google.com/store/apps/details?id=com.xlogic.profilepictures.utils</item>
+        <item>https://play.google.com/store/apps/details?id=com.xlogic.profilepictures.utils</item>
+        <item>https://play.google.com/store/apps/details?id=com.xlogic.profilepictures.utils</item>
+    </string-array>
+    <string-array name="homescreen_app_captions">
+        <item>MAKE YOUR PROFILE PICTURE\nMORE BEAUTIFUL </item>
+        <item>SHOW YOU\nANIMAL\'S NATURE</item>        
+        <item>THE BEST\nHDR CAMERA</item>
+	</string-array>
+    <string-array name="homescreen_app_images">
+        <item>app_lomocamera</item>
+        <item>app_animalface</item>
+        <item>app_hdr</item>
+	</string-array>
+    
+    <string name="homescreen_app_link">https://play.google.com/store/apps/details?id=com.mp3songs.freemp3songs</string>
+    <string name="homescreen_type">hdr</string>
+
+</resources>

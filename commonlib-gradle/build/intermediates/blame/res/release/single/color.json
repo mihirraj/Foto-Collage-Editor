@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\color\\wallet_primary_text_holo_light.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\color\\common_signin_btn_text_dark.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\release\\color\\common_signin_btn_text_light.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\color\\common_signin_btn_text_light.xml"
+    }
+]

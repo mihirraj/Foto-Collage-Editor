@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:onemanwithcamera="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/processing_root_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/topPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#DC3930"
+            android:scaleType="centerInside"
+            android:src="@drawable/panel_top" />
+
+        <LinearLayout
+            android:id="@+id/adViewContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topPanel"
+            android:layout_centerHorizontal="true" >
+
+            <com.google.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/adUnitId"
+                ads:loadAdOnCreate="true"
+                ads:testDevices="80A354043049161260" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/editDocumentPanel"
+            android:layout_below="@id/adViewContainer"
+            android:layout_gravity="center" >
+
+            <GridView
+                android:id="@+id/gvDocumentGallery"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:horizontalSpacing="4dip"
+                android:numColumns="2"
+                android:padding="4dip"
+                android:stretchMode="columnWidth"                
+                android:verticalSpacing="4dip" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/editDocumentPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@null" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/ivOpenCamera"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:src="@null" />
+
+                <ImageButton
+                    android:id="@+id/ivOpenGallery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:src="@null" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

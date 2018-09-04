@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:title="@string/selectResolutionDialogTitle" android:entries="@array/settings_resolution_types" android:entryValues="@array/settings_resolution_values" android:persistent="true" android:enabled="true" android:dialogTitle="@string/selectResolutionDialogTitle" android:negativeButtonText="@android:string/cancel" android:key="resolution_settings_key"/>
+    <CheckBoxPreference android:enabled="true" android:selectable="true" android:persistent="true" android:title="@string/settings_save_original_title" android:defaultValue="@bool/settings_save_original_default" android:key="save_original_settings_key"/>
+    <CheckBoxPreference android:enabled="true" android:selectable="true" android:persistent="true" android:title="@string/settings_do_square_photo_title" android:defaultValue="@bool/settings_do_square_photo_default" android:key="do_square_photo_key"/>
+    <PreferenceScreen android:title="@string/settings_more_apps_title" android:key="more_apps_settings_key"></PreferenceScreen>
+    <PreferenceScreen android:key="developers_settings_key" android:title="@string/settings_developers_title"></PreferenceScreen>
+    <PreferenceScreen android:title="@string/settings_rate_title" android:key="rate_settings_key"></PreferenceScreen>
+    
+
+</PreferenceScreen>

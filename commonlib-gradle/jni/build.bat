@@ -1,0 +1,1 @@
+ndk-build.cmd -j 4

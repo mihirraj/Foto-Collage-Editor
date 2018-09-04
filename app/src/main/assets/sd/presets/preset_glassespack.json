@@ -1,0 +1,513 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "glassespack_1",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_2",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_3",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_5",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_6",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_7",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_8",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_9",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_9.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_10",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_10.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_11",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_11.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_12",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_12.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_13",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_13.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_14",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_14.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_15",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_15.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_16",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_16.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_17",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_17.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_18",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_18.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_19",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_19.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_20",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_20.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_21",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_21.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_22",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_22.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_23",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_23.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_24",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_24.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_25",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_25.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_26",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_26.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_27",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_27.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "glassespack_28",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/glassespack/glassespack_28.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

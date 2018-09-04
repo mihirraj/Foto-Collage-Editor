@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\facebook_icon.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\facebook_icon.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\download.png"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\close.png"
+    }
+]

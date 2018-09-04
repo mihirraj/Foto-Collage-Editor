@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="aviary_sticker_overlay_min_size">20dip</dimen>
+    <dimen name="aviary_sticker_overlay_padding">20dip</dimen>
+    <!-- hightlight crop stroke width -->
+    <dimen name="aviary_crop_stroke_width">2dip</dimen>
+    <!-- stroke size for the internal lines -->
+    <dimen name="aviary_crop_stroke_internal_width">1sp</dimen>
+    <!-- minimum crop area -->
+    <dimen name="aviary_crop_min_size">50dip</dimen>
+
+</resources>

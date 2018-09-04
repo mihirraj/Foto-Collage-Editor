@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:layout_width="3dp"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/tvDocumentName"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="14dp"
+        android:src="#5E1814" />
+
+    <ImageView
+        android:layout_width="3dp"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/tvDocumentName"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="14dp"
+        android:src="#5E1814" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="14dp"
+        android:src="#5E1814" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="3dp"
+        android:layout_above="@+id/tvDocumentName"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="14dp"
+        android:src="#5E1814" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="15dp"
+        android:indeterminate="true" />
+
+    <ImageButton
+        android:id="@+id/ibDeletePage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:src="@null" />
+
+    <TextView
+        android:id="@+id/tvDocumentName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="  document  "
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/tvPageNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDocumentName"
+        android:layout_centerHorizontal="true"
+        android:text="  1 page "
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>

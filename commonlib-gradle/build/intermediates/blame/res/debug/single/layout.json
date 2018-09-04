@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_sliders.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_sliders.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\images_gallery.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\images_gallery.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_image_item.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\grid_view_image_item.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_ok_cancel.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_ok_cancel.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\interstital_activity.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\interstital_activity.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_promo.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\activity_web_promo.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_rotate_flip.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_rotate_flip.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_sliders_bars.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_sliders_bars.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_slider.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_slider.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_ok_cancel_bars.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_ok_cancel_bars.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\pick_image.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\pick_image.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\view_color_cursor.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\view_color_cursor.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_rotate_flip_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_rotate_flip_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_ok_cancel_filtergram.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_ok_cancel_filtergram.xml"
+    },
+    {
+        "merged": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\res\\merged\\debug\\layout\\panel_slider_hdr.xml",
+        "source": "G:\\FCE\\commonlib-gradle\\res\\layout\\panel_slider_hdr.xml"
+    }
+]

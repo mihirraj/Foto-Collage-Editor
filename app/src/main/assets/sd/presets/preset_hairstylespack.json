@@ -1,0 +1,441 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "hairstylespack_1",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_2",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_3",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_5",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_6",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_7",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_8",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_9",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_9.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_10",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_10.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_11",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_11.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_12",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_12.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_13",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_13.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_14",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_14.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_15",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_15.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_16",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_16.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_17",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_17.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_18",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_18.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_19",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_19.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_20",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_20.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_21",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_21.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_22",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_22.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_23",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_23.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "hairstylespack_24",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/hairstylespack/hairstylespack_24.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

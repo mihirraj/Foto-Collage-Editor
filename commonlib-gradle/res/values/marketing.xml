@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rateText">Please rate it on Google Play</string>
+    <string name="rateYes">Rate!</string>
+    <string name="rateNo">No, thanks</string>
+    <string name="rateLater">Maybe later</string>
+	<string name="rateUrlPrefix">market://details?id=</string>
+    <string name="trialTitle">Free version has expired</string>
+    <string name="trialText">The application has expired. Please purchase a full version or post a promo message on your Facebook wall.</string>
+    <string name="trialYes">Purchase</string>
+    <string name="trialNo">No, thanks</string>
+    <string name="btnPostToFacebook">Post To Facebook</string>
+    <string name="txtPromo">Tried this android application and it works great! Try it here: </string>
+    <string name="txtPostConfirmation">The message has been posted on your wall. Thank you very much for you support!</string>
+    <string name="txtFailedPost">The error appeared while connecting to your Facebook account. Please make sure that the credentials are correct and the Internet connection is function properly</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selectResolutionDialogTitle">Максимальный размер фото</string>
+    
+    <string-array name="settings_resolution_types">
+        <item>Стандартный   (быстро)</item>
+        <item>Большой       (средне)</item>
+        <item>Очень большой (медленно)</item>
+    </string-array>
+    
+    <string name="settings_save_original_title">Сохранять оригинальные фото</string>
+		
+</resources>

@@ -1,0 +1,369 @@
+{
+	"cameras": 
+	[
+		
+	],
+
+	"processings": 
+	[
+		{
+			"name": "linepack_1",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_1.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_2",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_2.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_3",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_3.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_4",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_4.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_5",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_5.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_6",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_6.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_7",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_7.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_8",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_8.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_9",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_9.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_10",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_10.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_11",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_11.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_12",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_12.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_13",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_13.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_14",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_14.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_15",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_15.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_16",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_16.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_17",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_17.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_18",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_18.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_19",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_19.png"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "linepack_20",
+			"imageResourceName": "normal",
+			"filters": 
+			[
+				{
+					"type": "sticker",
+					"params": 
+					[
+						{
+							"name": "path",
+							"value": "stickers/linepack/linepack_20.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

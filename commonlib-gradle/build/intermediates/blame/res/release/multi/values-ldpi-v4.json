@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "G:\\FCE\\commonlib-gradle\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ldpi-v4\\values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "G:\\FCE\\commonlib-gradle\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 47,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "G:\\FCE\\commonlib-gradle\\res\\values-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 47,
+                        "endOffset": 146
+                    }
+                }
+            }
+        ]
+    }
+]

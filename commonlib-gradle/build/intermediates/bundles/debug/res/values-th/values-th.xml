@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_resolution_types">
+        <item>ปกติ                    (เร็ว)</item>
+        <item>ใหญ่                    (ปกติ)</item>
+        <item>ขนาดใหญ่พิเศษ (ช้า)</item>
+    </string-array>
+    <string name="selectResolutionDialogTitle">แม็กซ์ขนาดภาพ</string>
+    <string name="settings_save_original_title">บันทึกภาพต้นฉบับ</string>
+</resources>

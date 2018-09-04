@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/promo_layout"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_gravity="center">
+  
+	<ImageView
+	  android:id="@+id/promo_image_view"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:scaleType="fitXY"
+	  android:src="@drawable/promo"
+	  android:layout_gravity="center"/>
+	
+	<ImageView
+	  android:id="@+id/close_image_view"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:src="@drawable/promo_close"
+	  android:layout_gravity="top|right"
+	  android:layout_marginTop="10dp"
+	  android:layout_marginRight="10dp"/>
+	
+	<ImageView
+	  android:id="@+id/download_image_view"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:layout_gravity="bottom|center_horizontal"
+	  android:src="@drawable/promo_download"
+	  android:layout_marginBottom="25dp"/>
+	
+</FrameLayout>
+
+
+

@@ -1,0 +1,6 @@
+[submodule "commonlib_fork/commonlib"]
+	path = commonlib_fork/commonlib
+	url = https://potalyukov@bitbucket.org/potalyukov/commonlib-gradle.git
+[submodule "commonlib-gradle"]
+	path = commonlib-gradle
+	url = https://potalyukov@bitbucket.org/potalyukov/commonlib-gradle.git
